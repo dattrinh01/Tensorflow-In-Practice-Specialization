@@ -1,4 +1,4 @@
-# deepLearning-Repo
+# Tensorflow-In-Practice-Specialization
 
 Will have write-up soon....
 
